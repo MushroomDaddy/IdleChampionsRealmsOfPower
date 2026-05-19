@@ -7,9 +7,10 @@ Temp/
 Obj/
 Build/
 Builds/
-ProjectSettings/ProjectVersion.txt
-ProjectSettings/EditorBuildSettings.asset
-ProjectSettings/ProjectSettings.asset
+# Keep ProjectSettings files for proper Unity project recognition
+# ProjectSettings/ProjectVersion.txt
+# ProjectSettings/EditorBuildSettings.asset
+# ProjectSettings/ProjectSettings.asset
 
 # Visual Studio cache directory
 .vs/
