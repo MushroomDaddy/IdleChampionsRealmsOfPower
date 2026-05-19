@@ -16,12 +16,12 @@ public enum GearSlot {
 }
 
 public enum GearRarity {
-    Common,     // Gray
-    Uncommon,   // Green
-    Rare,       // Blue
-    Epic,       // Purple
-    Legendary,   // Orange
-    Mythic,      // Red
+    Common,
+    Uncommon,
+    Rare,
+    Epic,
+    Legendary,
+    Mythic
 }
 
 public enum PetRarity {
@@ -37,7 +37,7 @@ public enum PetType {
     Magic,
     Defense,
     Speed,
-    Support,
+    Support
 }
 
 public enum StatType {
@@ -55,7 +55,7 @@ public enum StatType {
     Block,
     Lifesteal,
     Thorns,
-    Tenacity,
+    Tenacity
 }
 
 public enum BattleSpeed {
@@ -77,5 +77,5 @@ public enum ElementType {
     Earth,
     Air,
     Light,
-    Dark,
+    Dark
 }
